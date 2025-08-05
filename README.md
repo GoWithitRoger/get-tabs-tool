@@ -1,4 +1,8 @@
-# Get Tabs Tool
+<div align="left">
+<img src="icon.svg" alt="Get Tabs Tool Icon" width="80" height="80">
+</div>
+
+# Get Tabs Tool - README.md
 
 A command-line tool for macOS that retrieves the titles and URLs of all open tabs in Safari. It can be used as a standalone script or integrated as a local tool into AI assistants like the Gemini CLI.
 
