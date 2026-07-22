@@ -1,7 +1,7 @@
 [project]
 name = "get-tabs-tool"
 version = "0.1.0"
-description = "Add your description here"
+description = "Read titles and URLs from open Safari tabs on macOS"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = []
