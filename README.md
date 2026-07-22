@@ -3,8 +3,8 @@
 A small macOS command-line utility that returns the titles and URLs of open Safari tabs as JSON. It
 uses AppleScript through a short Python wrapper and can also be called from local automation tools.
 
-This is a best-effort hobby project built for a specific macOS workflow. It may need adjustment as
-Safari, macOS permissions, or third-party assistant integrations change.
+I wrote this for a specific macOS workflow. Safari, macOS permissions, or assistant integrations may
+change enough to require updates.
 
 ## Requirements
 
@@ -44,8 +44,8 @@ make them executable:
 chmod +x discover_tools.sh call_tool.sh
 ```
 
-That integration is kept as a convenience and may change with Gemini CLI releases. The standalone
-Python command does not depend on Gemini.
+Those scripts are a convenience and may change with Gemini CLI releases. The standalone Python
+command does not depend on Gemini.
 
 ## Development
 
