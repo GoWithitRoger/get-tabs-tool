@@ -3,8 +3,8 @@
 A small macOS command-line utility that returns the titles and URLs of open Safari tabs as JSON. It
 uses AppleScript through a short Python wrapper and can also be called from local automation tools.
 
-I wrote this for a specific macOS workflow. Safari, macOS permissions, or assistant integrations may
-change enough to require updates.
+The tool targets a specific macOS workflow. Changes to Safari, macOS permissions, or assistant
+integrations may require updates.
 
 ## Requirements
 
